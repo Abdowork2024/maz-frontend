@@ -1,0 +1,42 @@
+[
+  {
+    "titles": ["Secure", "storage"],
+    "contents": [
+      "We store the vast majority of the",
+      "digital assets in secure offline",
+      " storage."
+    ],
+    "link": "/images/cloud-data.svg",
+    "blurLink": "/images/cloud-data.png"
+  },
+  {
+    "titles": ["Protected by", "insurance"],
+    "contents": [
+      "Cryptocurrency stored on our ",
+      "servers is covered by our ",
+      "insurance policy."
+    ],
+    "link": "/images/user.svg",
+    "blurLink": "/images/user.png"
+  },
+  {
+    "titles": ["Industry best", "practices"],
+    "contents": [
+      "This crypto supports a variety of",
+      "the most popular digital crypto",
+      "currencies."
+    ],
+    "link": "/images/award.svg",
+    "blurLink": "/images/award.png"
+  },
+  {
+    "titles": ["Trade", "Assets"],
+    "contents": [
+      "Discover new and innovative ",
+      "crypto assets with over 200 spot",
+      "trading pairs and 25 margin."
+    ],
+    "link": "/images/trade.svg",
+    "blurLink": "/images/trade.png"
+  }
+]
